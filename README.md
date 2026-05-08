@@ -30,7 +30,6 @@
 ## 📚 Table of Contents
 
 - [Overview](#-overview)
-- [Screenshots](#-screenshots)
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
