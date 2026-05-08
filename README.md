@@ -61,19 +61,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Page | Preview |
-|------|---------|
-| 🏠 Home Page | *Swiper.js carousel + featured events* |
-| 📋 Events Page | *Two-column layout with filter sidebar* |
-| 🔍 Event Detail | *Interactive slide-in detail panel* |
-| 📊 Dashboard | *User profile + organized events* |
-| ➕ Organize Event | *Full event creation form* |
-
-> 💡 *Add your screenshots to a `/screenshots` folder and link them here for maximum recruiter impact.*
-
----
 
 ## 🛠️ Tech Stack
 
