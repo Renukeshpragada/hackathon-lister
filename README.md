@@ -40,8 +40,7 @@
 - [Frontend Pages](#-frontend-pages)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
+
 
 ---
 
@@ -76,7 +75,6 @@
 |------------|---------|
 | Node.js | JavaScript runtime environment |
 | Express.js | REST API framework & routing |
-| Sequelize ORM | Database abstraction & model management |
 | MySQL | Relational database for persistent storage |
 
 ### Security & Auth
@@ -166,7 +164,6 @@ campusevents/
 │
 ├── 📂 screenshots/                # (Add your screenshots here)
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
