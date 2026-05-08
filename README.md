@@ -524,20 +524,7 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 | `♻️ refactor:` | Code refactor |
 | `🔧 chore:` | Config or tooling changes |
 
-### Code of Conduct
 
-Please be respectful, inclusive, and kind. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
-
-```
-MIT License — You are free to use, modify, and distribute this project
-with proper attribution. No warranties provided.
-```
 
 ---
 
@@ -545,7 +532,7 @@ with proper attribution. No warranties provided.
 
 <div align="center">
 
-**Built with 🔥 by [Your Name](https://github.com/your-username)**
+**Built with 🔥 by [Renukesh DurgaPrasad](https://github.com/Renukeshpragada),[Madem hemanth](https://github.com/Hemanth2131)**
 
 *Computer Science student | Full-Stack Developer | Open Source Enthusiast*
 
